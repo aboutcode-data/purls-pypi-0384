@@ -1,0 +1,2 @@
+- pkg:pypi/asyncio-rabbitmq-consumer@0.0.0
+- pkg:pypi/asyncio-rabbitmq-consumer@0.1.1
