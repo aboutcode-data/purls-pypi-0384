@@ -1,0 +1,4 @@
+- pkg:pypi/cherrypy-psycopg2-crud@1.0
+- pkg:pypi/cherrypy-psycopg2-crud@1.1
+- pkg:pypi/cherrypy-psycopg2-crud@1.2
+- pkg:pypi/cherrypy-psycopg2-crud@1.3
