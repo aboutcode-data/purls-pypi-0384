@@ -1,0 +1,16 @@
+- pkg:pypi/airflow-provider-hightouch@0.1.0
+- pkg:pypi/airflow-provider-hightouch@0.1.1
+- pkg:pypi/airflow-provider-hightouch@1.0.0
+- pkg:pypi/airflow-provider-hightouch@1.0.1
+- pkg:pypi/airflow-provider-hightouch@2.0.0
+- pkg:pypi/airflow-provider-hightouch@2.0.1
+- pkg:pypi/airflow-provider-hightouch@2.0.2
+- pkg:pypi/airflow-provider-hightouch@2.0.3
+- pkg:pypi/airflow-provider-hightouch@2.1.0
+- pkg:pypi/airflow-provider-hightouch@2.1.1
+- pkg:pypi/airflow-provider-hightouch@2.1.2
+- pkg:pypi/airflow-provider-hightouch@3.0.0
+- pkg:pypi/airflow-provider-hightouch@3.0.1
+- pkg:pypi/airflow-provider-hightouch@3.0.2
+- pkg:pypi/airflow-provider-hightouch@3.0.3
+- pkg:pypi/airflow-provider-hightouch@4.0.0

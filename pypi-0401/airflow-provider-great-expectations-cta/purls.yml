@@ -1,0 +1,4 @@
+- pkg:pypi/airflow-provider-great-expectations-cta@0.0.1
+- pkg:pypi/airflow-provider-great-expectations-cta@0.0.2
+- pkg:pypi/airflow-provider-great-expectations-cta@0.0.3
+- pkg:pypi/airflow-provider-great-expectations-cta@0.2.4
