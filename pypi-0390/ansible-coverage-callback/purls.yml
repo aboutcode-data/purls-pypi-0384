@@ -1,0 +1,3 @@
+- pkg:pypi/ansible-coverage-callback@1.0.0
+- pkg:pypi/ansible-coverage-callback@1.0.1
+- pkg:pypi/ansible-coverage-callback@1.0.2
