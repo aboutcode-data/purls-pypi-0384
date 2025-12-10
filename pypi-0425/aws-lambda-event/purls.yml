@@ -1,0 +1,4 @@
+- pkg:pypi/aws-lambda-event@0.0.1
+- pkg:pypi/aws-lambda-event@1.0.1
+- pkg:pypi/aws-lambda-event@2.0.1
+- pkg:pypi/aws-lambda-event@2.0.2
