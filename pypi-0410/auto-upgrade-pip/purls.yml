@@ -1,0 +1,7 @@
+- pkg:pypi/auto-upgrade-pip@0.1.0
+- pkg:pypi/auto-upgrade-pip@0.1.0.dev0
+- pkg:pypi/auto-upgrade-pip@0.1.0.dev1
+- pkg:pypi/auto-upgrade-pip@0.1.0.dev3
+- pkg:pypi/auto-upgrade-pip@0.1.0.post0
+- pkg:pypi/auto-upgrade-pip@0.2.0
+- pkg:pypi/auto-upgrade-pip@0.2.1
