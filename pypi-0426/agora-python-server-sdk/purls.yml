@@ -30,3 +30,6 @@
 - pkg:pypi/agora-python-server-sdk@2.3.3
 - pkg:pypi/agora-python-server-sdk@2.3.4
 - pkg:pypi/agora-python-server-sdk@2.4.0
+- pkg:pypi/agora-python-server-sdk@2.4.1
+- pkg:pypi/agora-python-server-sdk@2.4.2
+- pkg:pypi/agora-python-server-sdk@2.4.3
