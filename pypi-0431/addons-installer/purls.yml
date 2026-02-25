@@ -23,5 +23,6 @@
 - pkg:pypi/addons-installer@3.7.1
 - pkg:pypi/addons-installer@3.7.2
 - pkg:pypi/addons-installer@3.8.0
+- pkg:pypi/addons-installer@3.9.0
 - pkg:pypi/addons-installer@4.0.0
 - pkg:pypi/addons-installer@4.1.0
