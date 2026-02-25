@@ -1,6 +1,9 @@
 - pkg:pypi/cdc-automation@0.0.1
 - pkg:pypi/cdc-automation@0.0.10
 - pkg:pypi/cdc-automation@0.0.11
+- pkg:pypi/cdc-automation@0.0.12
+- pkg:pypi/cdc-automation@0.0.13
+- pkg:pypi/cdc-automation@0.0.14
 - pkg:pypi/cdc-automation@0.0.2
 - pkg:pypi/cdc-automation@0.0.3
 - pkg:pypi/cdc-automation@0.0.4
