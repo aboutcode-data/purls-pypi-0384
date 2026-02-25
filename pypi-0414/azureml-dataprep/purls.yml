@@ -276,3 +276,4 @@
 - pkg:pypi/azureml-dataprep@5.4.0
 - pkg:pypi/azureml-dataprep@5.4.1
 - pkg:pypi/azureml-dataprep@5.4.2
+- pkg:pypi/azureml-dataprep@5.4.3

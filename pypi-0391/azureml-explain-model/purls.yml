@@ -96,6 +96,7 @@
 - pkg:pypi/azureml-explain-model@1.6.0
 - pkg:pypi/azureml-explain-model@1.60.0
 - pkg:pypi/azureml-explain-model@1.61.0
+- pkg:pypi/azureml-explain-model@1.62.0
 - pkg:pypi/azureml-explain-model@1.7.0
 - pkg:pypi/azureml-explain-model@1.8.0
 - pkg:pypi/azureml-explain-model@1.9.0
