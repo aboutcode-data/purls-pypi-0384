@@ -161,6 +161,13 @@
 - pkg:pypi/checkdmarc@5.12.7
 - pkg:pypi/checkdmarc@5.12.8
 - pkg:pypi/checkdmarc@5.12.9
+- pkg:pypi/checkdmarc@5.13.0
+- pkg:pypi/checkdmarc@5.13.1
+- pkg:pypi/checkdmarc@5.13.2
+- pkg:pypi/checkdmarc@5.13.3
+- pkg:pypi/checkdmarc@5.13.4
+- pkg:pypi/checkdmarc@5.14.0
+- pkg:pypi/checkdmarc@5.14.1
 - pkg:pypi/checkdmarc@5.2.0
 - pkg:pypi/checkdmarc@5.2.1
 - pkg:pypi/checkdmarc@5.2.2
