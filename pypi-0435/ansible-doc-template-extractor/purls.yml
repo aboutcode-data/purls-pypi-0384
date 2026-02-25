@@ -4,6 +4,10 @@
 - pkg:pypi/ansible-doc-template-extractor@0.13.0
 - pkg:pypi/ansible-doc-template-extractor@0.13.1
 - pkg:pypi/ansible-doc-template-extractor@0.13.2
+- pkg:pypi/ansible-doc-template-extractor@0.14.0
+- pkg:pypi/ansible-doc-template-extractor@0.15.0
+- pkg:pypi/ansible-doc-template-extractor@0.15.1
+- pkg:pypi/ansible-doc-template-extractor@0.16.0
 - pkg:pypi/ansible-doc-template-extractor@0.5.0
 - pkg:pypi/ansible-doc-template-extractor@0.6.0
 - pkg:pypi/ansible-doc-template-extractor@0.7.0
