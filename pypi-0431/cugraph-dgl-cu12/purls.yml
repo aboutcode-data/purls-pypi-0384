@@ -1,0 +1,11 @@
+- pkg:pypi/cugraph-dgl-cu12@24.10.0
+- pkg:pypi/cugraph-dgl-cu12@24.12.0
+- pkg:pypi/cugraph-dgl-cu12@24.2.0
+- pkg:pypi/cugraph-dgl-cu12@24.4.0
+- pkg:pypi/cugraph-dgl-cu12@24.6.0
+- pkg:pypi/cugraph-dgl-cu12@24.6.1
+- pkg:pypi/cugraph-dgl-cu12@24.8.0
+- pkg:pypi/cugraph-dgl-cu12@25.2.0
+- pkg:pypi/cugraph-dgl-cu12@25.4.0
+- pkg:pypi/cugraph-dgl-cu12@25.4.2
+- pkg:pypi/cugraph-dgl-cu12@25.6.0

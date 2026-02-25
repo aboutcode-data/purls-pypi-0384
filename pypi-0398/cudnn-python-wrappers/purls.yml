@@ -1,0 +1,4 @@
+- pkg:pypi/cudnn-python-wrappers@0.1
+- pkg:pypi/cudnn-python-wrappers@1.0
+- pkg:pypi/cudnn-python-wrappers@2.0b
+- pkg:pypi/cudnn-python-wrappers@2.0b2
