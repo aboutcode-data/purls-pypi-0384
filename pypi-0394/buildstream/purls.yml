@@ -63,3 +63,4 @@
 - pkg:pypi/buildstream@2.5.0.dev1
 - pkg:pypi/buildstream@2.6.0
 - pkg:pypi/buildstream@2.6.0.dev0
+- pkg:pypi/buildstream@2.7.0.dev0
