@@ -34,3 +34,7 @@
 - pkg:pypi/chroma-haystack@3.3.0
 - pkg:pypi/chroma-haystack@3.4.0
 - pkg:pypi/chroma-haystack@3.4.1
+- pkg:pypi/chroma-haystack@3.5.0
+- pkg:pypi/chroma-haystack@4.0.0
+- pkg:pypi/chroma-haystack@4.1.0
+- pkg:pypi/chroma-haystack@4.1.1

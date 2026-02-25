@@ -68,6 +68,9 @@
 - pkg:pypi/chirpstack-api@4.14.0
 - pkg:pypi/chirpstack-api@4.14.1
 - pkg:pypi/chirpstack-api@4.15.0
+- pkg:pypi/chirpstack-api@4.16.0
+- pkg:pypi/chirpstack-api@4.16.1
+- pkg:pypi/chirpstack-api@4.16.2
 - pkg:pypi/chirpstack-api@4.2.0
 - pkg:pypi/chirpstack-api@4.3.0
 - pkg:pypi/chirpstack-api@4.3.1
