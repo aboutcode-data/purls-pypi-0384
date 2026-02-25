@@ -1,0 +1,4 @@
+- pkg:pypi/couchbase-columnar@1.0.0
+- pkg:pypi/couchbase-columnar@1.0.0.dev3
+- pkg:pypi/couchbase-columnar@1.0.1
+- pkg:pypi/couchbase-columnar@1.0.1rc1
