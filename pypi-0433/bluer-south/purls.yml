@@ -6,6 +6,13 @@
 - pkg:pypi/bluer-south@4.114.1
 - pkg:pypi/bluer-south@4.118.1
 - pkg:pypi/bluer-south@4.120.1
+- pkg:pypi/bluer-south@4.122.1
+- pkg:pypi/bluer-south@4.126.1
+- pkg:pypi/bluer-south@4.127.1
+- pkg:pypi/bluer-south@4.128.1
+- pkg:pypi/bluer-south@4.129.1
+- pkg:pypi/bluer-south@4.134.1
+- pkg:pypi/bluer-south@4.137.1
 - pkg:pypi/bluer-south@4.27.1
 - pkg:pypi/bluer-south@4.31.1
 - pkg:pypi/bluer-south@4.36.1
