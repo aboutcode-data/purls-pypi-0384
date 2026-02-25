@@ -77,3 +77,5 @@
 - pkg:pypi/adafruit-circuitpython-portalbase@3.4.0
 - pkg:pypi/adafruit-circuitpython-portalbase@3.4.1
 - pkg:pypi/adafruit-circuitpython-portalbase@3.4.2
+- pkg:pypi/adafruit-circuitpython-portalbase@3.4.3
+- pkg:pypi/adafruit-circuitpython-portalbase@3.5.0

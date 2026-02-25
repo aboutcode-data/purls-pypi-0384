@@ -32,7 +32,10 @@
 - pkg:pypi/adafruit-circuitpython-neopixel@6.3.16
 - pkg:pypi/adafruit-circuitpython-neopixel@6.3.17
 - pkg:pypi/adafruit-circuitpython-neopixel@6.3.18
+- pkg:pypi/adafruit-circuitpython-neopixel@6.3.19
 - pkg:pypi/adafruit-circuitpython-neopixel@6.3.2
+- pkg:pypi/adafruit-circuitpython-neopixel@6.3.20
+- pkg:pypi/adafruit-circuitpython-neopixel@6.3.21
 - pkg:pypi/adafruit-circuitpython-neopixel@6.3.3
 - pkg:pypi/adafruit-circuitpython-neopixel@6.3.4
 - pkg:pypi/adafruit-circuitpython-neopixel@6.3.5
