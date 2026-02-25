@@ -45,3 +45,4 @@
 - pkg:pypi/absl-py@2.2.2
 - pkg:pypi/absl-py@2.3.0
 - pkg:pypi/absl-py@2.3.1
+- pkg:pypi/absl-py@2.4.0
