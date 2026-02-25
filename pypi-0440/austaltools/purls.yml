@@ -1,3 +1,4 @@
+- pkg:pypi/austaltools@2.10.0
 - pkg:pypi/austaltools@2.6.1
 - pkg:pypi/austaltools@2.6.3
 - pkg:pypi/austaltools@2.6.4
@@ -12,8 +13,15 @@
 - pkg:pypi/austaltools@2.8.19
 - pkg:pypi/austaltools@2.8.20
 - pkg:pypi/austaltools@2.8.21
+- pkg:pypi/austaltools@2.8.22
+- pkg:pypi/austaltools@2.8.23
+- pkg:pypi/austaltools@2.8.24
+- pkg:pypi/austaltools@2.8.25
+- pkg:pypi/austaltools@2.8.26
 - pkg:pypi/austaltools@2.8.4
 - pkg:pypi/austaltools@2.8.6
 - pkg:pypi/austaltools@2.8.7
 - pkg:pypi/austaltools@2.8.8
 - pkg:pypi/austaltools@2.8.9
+- pkg:pypi/austaltools@2.9.1
+- pkg:pypi/austaltools@2.9.2
