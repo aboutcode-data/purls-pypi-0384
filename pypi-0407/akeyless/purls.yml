@@ -150,7 +150,11 @@
 - pkg:pypi/akeyless@5.0.15
 - pkg:pypi/akeyless@5.0.16
 - pkg:pypi/akeyless@5.0.17
+- pkg:pypi/akeyless@5.0.18
+- pkg:pypi/akeyless@5.0.19
 - pkg:pypi/akeyless@5.0.2
+- pkg:pypi/akeyless@5.0.20
+- pkg:pypi/akeyless@5.0.21
 - pkg:pypi/akeyless@5.0.3
 - pkg:pypi/akeyless@5.0.4
 - pkg:pypi/akeyless@5.0.5
