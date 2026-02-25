@@ -4,6 +4,10 @@
 - pkg:pypi/aas-core-codegen@0.0.13
 - pkg:pypi/aas-core-codegen@0.0.14
 - pkg:pypi/aas-core-codegen@0.0.15
+- pkg:pypi/aas-core-codegen@0.0.16
+- pkg:pypi/aas-core-codegen@0.0.17
+- pkg:pypi/aas-core-codegen@0.0.18.post1
+- pkg:pypi/aas-core-codegen@0.0.18.post2
 - pkg:pypi/aas-core-codegen@0.0.1rc1
 - pkg:pypi/aas-core-codegen@0.0.1rc1.post1
 - pkg:pypi/aas-core-codegen@0.0.2

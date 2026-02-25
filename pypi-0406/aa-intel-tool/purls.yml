@@ -29,6 +29,9 @@
 - pkg:pypi/aa-intel-tool@2.11.1
 - pkg:pypi/aa-intel-tool@2.11.2
 - pkg:pypi/aa-intel-tool@2.12.0
+- pkg:pypi/aa-intel-tool@2.12.1
+- pkg:pypi/aa-intel-tool@2.13.0
+- pkg:pypi/aa-intel-tool@2.13.1
 - pkg:pypi/aa-intel-tool@2.2.0
 - pkg:pypi/aa-intel-tool@2.3.0
 - pkg:pypi/aa-intel-tool@2.4.0
