@@ -242,7 +242,12 @@
 - pkg:pypi/bokeh@3.8.0rc1
 - pkg:pypi/bokeh@3.8.0rc2
 - pkg:pypi/bokeh@3.8.1
+- pkg:pypi/bokeh@3.8.2
 - pkg:pypi/bokeh@3.9.0.dev1
+- pkg:pypi/bokeh@3.9.0.dev10
 - pkg:pypi/bokeh@3.9.0.dev2
 - pkg:pypi/bokeh@3.9.0.dev3
 - pkg:pypi/bokeh@3.9.0.dev4
+- pkg:pypi/bokeh@3.9.0.dev7
+- pkg:pypi/bokeh@3.9.0.dev8
+- pkg:pypi/bokeh@3.9.0.dev9
