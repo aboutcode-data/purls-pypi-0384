@@ -34,7 +34,12 @@
 - pkg:pypi/apache-airflow-providers-neo4j@3.10.3rc1
 - pkg:pypi/apache-airflow-providers-neo4j@3.11.0
 - pkg:pypi/apache-airflow-providers-neo4j@3.11.0rc1
+- pkg:pypi/apache-airflow-providers-neo4j@3.11.1
 - pkg:pypi/apache-airflow-providers-neo4j@3.11.1rc1
+- pkg:pypi/apache-airflow-providers-neo4j@3.11.2
+- pkg:pypi/apache-airflow-providers-neo4j@3.11.2rc1
+- pkg:pypi/apache-airflow-providers-neo4j@3.11.3
+- pkg:pypi/apache-airflow-providers-neo4j@3.11.3rc1
 - pkg:pypi/apache-airflow-providers-neo4j@3.2.0
 - pkg:pypi/apache-airflow-providers-neo4j@3.2.0rc1
 - pkg:pypi/apache-airflow-providers-neo4j@3.2.1

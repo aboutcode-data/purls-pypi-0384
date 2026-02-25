@@ -27,3 +27,7 @@
 - pkg:pypi/apache-airflow-providers-qdrant@1.4.4rc1
 - pkg:pypi/apache-airflow-providers-qdrant@1.5.0
 - pkg:pypi/apache-airflow-providers-qdrant@1.5.0rc1
+- pkg:pypi/apache-airflow-providers-qdrant@1.5.1
+- pkg:pypi/apache-airflow-providers-qdrant@1.5.1rc1
+- pkg:pypi/apache-airflow-providers-qdrant@1.5.2
+- pkg:pypi/apache-airflow-providers-qdrant@1.5.2rc1
