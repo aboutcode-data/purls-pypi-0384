@@ -96,6 +96,7 @@
 - pkg:pypi/bilibili-api-python@17.2.1
 - pkg:pypi/bilibili-api-python@17.3.0
 - pkg:pypi/bilibili-api-python@17.4.0
+- pkg:pypi/bilibili-api-python@17.4.1
 - pkg:pypi/bilibili-api-python@9.1.2
 - pkg:pypi/bilibili-api-python@9.2.0
 - pkg:pypi/bilibili-api-python@9.3.0
