@@ -1,6 +1,8 @@
 - pkg:pypi/cg-feedback-helpers@1%211.0.0
 - pkg:pypi/cg-feedback-helpers@1%211.0.1
 - pkg:pypi/cg-feedback-helpers@1%211.0.2
+- pkg:pypi/cg-feedback-helpers@1%211.0.3
+- pkg:pypi/cg-feedback-helpers@1%211.0.4
 - pkg:pypi/cg-feedback-helpers@2023.12.22.1110
 - pkg:pypi/cg-feedback-helpers@2024.1.16.1247
 - pkg:pypi/cg-feedback-helpers@2024.2.13.1323

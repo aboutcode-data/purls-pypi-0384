@@ -41,3 +41,6 @@
 - pkg:pypi/cfinterface@1.7.0
 - pkg:pypi/cfinterface@1.7.1
 - pkg:pypi/cfinterface@1.8.0
+- pkg:pypi/cfinterface@1.8.1
+- pkg:pypi/cfinterface@1.8.2
+- pkg:pypi/cfinterface@1.8.3
