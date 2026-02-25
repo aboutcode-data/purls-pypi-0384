@@ -12,3 +12,5 @@
 - pkg:pypi/aiosyncthing@0.5.0
 - pkg:pypi/aiosyncthing@0.5.1
 - pkg:pypi/aiosyncthing@0.6.3
+- pkg:pypi/aiosyncthing@0.7.0
+- pkg:pypi/aiosyncthing@0.7.1

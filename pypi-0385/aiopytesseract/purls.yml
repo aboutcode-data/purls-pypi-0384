@@ -14,3 +14,4 @@
 - pkg:pypi/aiopytesseract@0.8.0
 - pkg:pypi/aiopytesseract@0.9.0
 - pkg:pypi/aiopytesseract@1.0.0
+- pkg:pypi/aiopytesseract@1.1.0
