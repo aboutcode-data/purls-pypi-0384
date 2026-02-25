@@ -43,6 +43,8 @@
 - pkg:pypi/airbyte-source-surveymonkey@0.3.45
 - pkg:pypi/airbyte-source-surveymonkey@0.3.46
 - pkg:pypi/airbyte-source-surveymonkey@0.3.47
+- pkg:pypi/airbyte-source-surveymonkey@0.3.48
+- pkg:pypi/airbyte-source-surveymonkey@0.3.48.dev202602231653
 - pkg:pypi/airbyte-source-surveymonkey@0.3.5
 - pkg:pypi/airbyte-source-surveymonkey@0.3.6
 - pkg:pypi/airbyte-source-surveymonkey@0.3.7

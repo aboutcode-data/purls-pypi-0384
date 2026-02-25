@@ -1,3 +1,4 @@
 - pkg:pypi/airflow-blueprint@0.0.1a1
 - pkg:pypi/airflow-blueprint@0.0.1a2
 - pkg:pypi/airflow-blueprint@0.0.1a3
+- pkg:pypi/airflow-blueprint@0.1.0
