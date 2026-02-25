@@ -13,6 +13,7 @@
 - pkg:pypi/capella-console-client@0.15.1
 - pkg:pypi/capella-console-client@0.16.0
 - pkg:pypi/capella-console-client@0.16.1
+- pkg:pypi/capella-console-client@0.17.0
 - pkg:pypi/capella-console-client@0.7.1
 - pkg:pypi/capella-console-client@0.7.2
 - pkg:pypi/capella-console-client@0.7.3
