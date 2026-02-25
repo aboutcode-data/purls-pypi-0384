@@ -109,6 +109,9 @@
 - pkg:pypi/anatools@5.1.23
 - pkg:pypi/anatools@5.1.24
 - pkg:pypi/anatools@5.1.25
+- pkg:pypi/anatools@5.1.26
+- pkg:pypi/anatools@5.1.27
+- pkg:pypi/anatools@5.1.28
 - pkg:pypi/anatools@5.1.3
 - pkg:pypi/anatools@5.1.4
 - pkg:pypi/anatools@5.1.5
@@ -116,3 +119,8 @@
 - pkg:pypi/anatools@5.1.7
 - pkg:pypi/anatools@5.1.8
 - pkg:pypi/anatools@5.1.9
+- pkg:pypi/anatools@6.0.0
+- pkg:pypi/anatools@6.0.1
+- pkg:pypi/anatools@6.0.2
+- pkg:pypi/anatools@6.0.3
+- pkg:pypi/anatools@6.0.4
