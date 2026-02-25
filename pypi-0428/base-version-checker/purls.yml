@@ -9,3 +9,4 @@
 - pkg:pypi/base-version-checker@0.2.4
 - pkg:pypi/base-version-checker@0.2.5
 - pkg:pypi/base-version-checker@0.3.0
+- pkg:pypi/base-version-checker@0.4.0
