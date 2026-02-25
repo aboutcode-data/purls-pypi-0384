@@ -85,6 +85,7 @@
 - pkg:pypi/archinstall@3.0.12
 - pkg:pypi/archinstall@3.0.13
 - pkg:pypi/archinstall@3.0.14
+- pkg:pypi/archinstall@3.0.15
 - pkg:pypi/archinstall@3.0.6
 - pkg:pypi/archinstall@3.0.7
 - pkg:pypi/archinstall@3.0.8
