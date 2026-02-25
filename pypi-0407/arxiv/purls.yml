@@ -37,3 +37,6 @@
 - pkg:pypi/arxiv@2.2.0
 - pkg:pypi/arxiv@2.3.0
 - pkg:pypi/arxiv@2.3.1
+- pkg:pypi/arxiv@2.3.2
+- pkg:pypi/arxiv@2.3.2.dev15
+- pkg:pypi/arxiv@2.4.0
