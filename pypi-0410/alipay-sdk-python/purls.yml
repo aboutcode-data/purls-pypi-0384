@@ -48,6 +48,8 @@
 - pkg:pypi/alipay-sdk-python@3.6.809
 - pkg:pypi/alipay-sdk-python@3.6.815
 - pkg:pypi/alipay-sdk-python@3.6.833
+- pkg:pypi/alipay-sdk-python@3.7.1001
+- pkg:pypi/alipay-sdk-python@3.7.1018
 - pkg:pypi/alipay-sdk-python@3.7.129
 - pkg:pypi/alipay-sdk-python@3.7.137
 - pkg:pypi/alipay-sdk-python@3.7.156

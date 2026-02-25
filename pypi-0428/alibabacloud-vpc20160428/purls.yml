@@ -63,6 +63,11 @@
 - pkg:pypi/alibabacloud-vpc20160428@6.12.0
 - pkg:pypi/alibabacloud-vpc20160428@6.12.1
 - pkg:pypi/alibabacloud-vpc20160428@6.13.0
+- pkg:pypi/alibabacloud-vpc20160428@6.13.1
+- pkg:pypi/alibabacloud-vpc20160428@6.13.2
+- pkg:pypi/alibabacloud-vpc20160428@6.14.0
+- pkg:pypi/alibabacloud-vpc20160428@6.14.1
+- pkg:pypi/alibabacloud-vpc20160428@6.15.0
 - pkg:pypi/alibabacloud-vpc20160428@6.2.0
 - pkg:pypi/alibabacloud-vpc20160428@6.2.1
 - pkg:pypi/alibabacloud-vpc20160428@6.2.2
@@ -91,3 +96,4 @@
 - pkg:pypi/alibabacloud-vpc20160428@6.9.4
 - pkg:pypi/alibabacloud-vpc20160428@6.9.5
 - pkg:pypi/alibabacloud-vpc20160428@6.9.6
+- pkg:pypi/alibabacloud-vpc20160428@7.0.0
