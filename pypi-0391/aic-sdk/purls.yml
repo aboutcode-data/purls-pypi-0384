@@ -7,3 +7,6 @@
 - pkg:pypi/aic-sdk@1.0.3
 - pkg:pypi/aic-sdk@1.1.0
 - pkg:pypi/aic-sdk@1.2.0
+- pkg:pypi/aic-sdk@1.3.0
+- pkg:pypi/aic-sdk@2.0.0
+- pkg:pypi/aic-sdk@2.0.1
