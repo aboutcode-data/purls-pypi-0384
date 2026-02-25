@@ -40,6 +40,12 @@
 - pkg:pypi/approvaltests-minimal@16.0.1
 - pkg:pypi/approvaltests-minimal@16.1.0
 - pkg:pypi/approvaltests-minimal@16.2.0
+- pkg:pypi/approvaltests-minimal@16.2.1
+- pkg:pypi/approvaltests-minimal@16.2.2
+- pkg:pypi/approvaltests-minimal@16.3.0
+- pkg:pypi/approvaltests-minimal@17.0.0
+- pkg:pypi/approvaltests-minimal@17.1.0
+- pkg:pypi/approvaltests-minimal@17.1.1
 - pkg:pypi/approvaltests-minimal@5.10.0
 - pkg:pypi/approvaltests-minimal@5.11.0
 - pkg:pypi/approvaltests-minimal@5.12.0
