@@ -43,3 +43,6 @@
 - pkg:pypi/autoforge@1.9.2
 - pkg:pypi/autoforge@1.9.2.1
 - pkg:pypi/autoforge@1.9.2.2
+- pkg:pypi/autoforge@1.9.2.3
+- pkg:pypi/autoforge@1.9.3
+- pkg:pypi/autoforge@1.9.3.1
