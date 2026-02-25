@@ -2,6 +2,11 @@
 - pkg:pypi/aerleon@1.1.0
 - pkg:pypi/aerleon@1.10.0
 - pkg:pypi/aerleon@1.11.0
+- pkg:pypi/aerleon@1.12.1
+- pkg:pypi/aerleon@1.13.0
+- pkg:pypi/aerleon@1.14.0
+- pkg:pypi/aerleon@1.14.1
+- pkg:pypi/aerleon@1.15.0
 - pkg:pypi/aerleon@1.2.0
 - pkg:pypi/aerleon@1.2.1
 - pkg:pypi/aerleon@1.2.2

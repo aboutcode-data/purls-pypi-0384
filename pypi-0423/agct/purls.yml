@@ -2,4 +2,5 @@
 - pkg:pypi/agct@0.1.0.dev1
 - pkg:pypi/agct@0.1.0.dev2
 - pkg:pypi/agct@0.1.1
+- pkg:pypi/agct@0.2.0
 - pkg:pypi/agct@0.2.0rc1
