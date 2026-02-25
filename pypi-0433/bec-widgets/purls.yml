@@ -207,6 +207,10 @@
 - pkg:pypi/bec-widgets@2.45.0
 - pkg:pypi/bec-widgets@2.45.1
 - pkg:pypi/bec-widgets@2.45.10
+- pkg:pypi/bec-widgets@2.45.11
+- pkg:pypi/bec-widgets@2.45.12
+- pkg:pypi/bec-widgets@2.45.13
+- pkg:pypi/bec-widgets@2.45.14
 - pkg:pypi/bec-widgets@2.45.2
 - pkg:pypi/bec-widgets@2.45.3
 - pkg:pypi/bec-widgets@2.45.4
